@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F859773E-2C10-4599-8079-B3EE8773E854}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Vistas</RootNamespace>
+    <AssemblyName>Vistas</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAdminConcursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdminConcursos.Designer.cs">
+      <DependentUpon>FrmAdminConcursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEquiposMiembro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEquiposMiembro.Designer.cs">
+      <DependentUpon>FrmEquiposMiembro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdminInstituciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdminInstituciones.Designer.cs">
+      <DependentUpon>FrmAdminInstituciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdminRegiones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdminRegiones.Designer.cs">
+      <DependentUpon>FrmAdminRegiones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdminSedes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdminSedes.Designer.cs">
+      <DependentUpon>FrmAdminSedes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAgregarEditarConcursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAgregarEditarConcursos.Designer.cs">
+      <DependentUpon>FrmAgregarEditarConcursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAgregarEditarInstituciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAgregarEditarInstituciones.Designer.cs">
+      <DependentUpon>FrmAgregarEditarInstituciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAgregarEditarRegiones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAgregarEditarRegiones.Designer.cs">
+      <DependentUpon>FrmAgregarEditarRegiones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAgregarEditarSedes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAgregarEditarSedes.Designer.cs">
+      <DependentUpon>FrmAgregarEditarSedes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCrearEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCrearEquipo.Designer.cs">
+      <DependentUpon>FrmCrearEquipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPerfilMiembro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPerfilMiembro.Designer.cs">
+      <DependentUpon>FrmPerfilMiembro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegistro.Designer.cs">
+      <DependentUpon>FrmRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporteEquipoSede.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReporteEquipoSede.Designer.cs">
+      <DependentUpon>FrmReporteEquipoSede.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporteRegion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReporteRegion.Designer.cs">
+      <DependentUpon>FrmReporteRegion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporteUniversidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReporteUniversidad.Designer.cs">
+      <DependentUpon>FrmReporteUniversidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTableroAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTableroAdministrador.Designer.cs">
+      <DependentUpon>FrmTableroAdministrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTableroMiembro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTableroMiembro.Designer.cs">
+      <DependentUpon>FrmTableroMiembro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAdminConcursos.resx">
+      <DependentUpon>FrmAdminConcursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEquiposMiembro.resx">
+      <DependentUpon>FrmEquiposMiembro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdminInstituciones.resx">
+      <DependentUpon>FrmAdminInstituciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdminRegiones.resx">
+      <DependentUpon>FrmAdminRegiones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdminSedes.resx">
+      <DependentUpon>FrmAdminSedes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAgregarEditarConcursos.resx">
+      <DependentUpon>FrmAgregarEditarConcursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAgregarEditarInstituciones.resx">
+      <DependentUpon>FrmAgregarEditarInstituciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAgregarEditarRegiones.resx">
+      <DependentUpon>FrmAgregarEditarRegiones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAgregarEditarSedes.resx">
+      <DependentUpon>FrmAgregarEditarSedes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCrearEquipo.resx">
+      <DependentUpon>FrmCrearEquipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPerfilMiembro.resx">
+      <DependentUpon>FrmPerfilMiembro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegistro.resx">
+      <DependentUpon>FrmRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporteEquipoSede.resx">
+      <DependentUpon>FrmReporteEquipoSede.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporteRegion.resx">
+      <DependentUpon>FrmReporteRegion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporteUniversidad.resx">
+      <DependentUpon>FrmReporteUniversidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTableroAdministrador.resx">
+      <DependentUpon>FrmTableroAdministrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTableroMiembro.resx">
+      <DependentUpon>FrmTableroMiembro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\DataSources\Modelo.Miembro.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAOS\DAOS.csproj">
+      <Project>{72cad848-2ffc-4bd8-b737-d54687665be5}</Project>
+      <Name>DAOS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Modelo\Modelo.csproj">
+      <Project>{dce86b8d-830e-4cd7-9ffc-82eb87a051b6}</Project>
+      <Name>Modelo</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,24 @@
+C:\Users\arman\source\repos\ICPC\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\Users\arman\source\repos\ICPC\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\arman\source\repos\ICPC\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\arman\source\repos\ICPC\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+C:\Users\arman\source\repos\ICPC\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\arman\source\repos\ICPC\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\Users\arman\source\repos\ICPC\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\Users\arman\source\repos\ICPC\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Modelo\obj\Debug\netstandard2.0\Modelo.pdb

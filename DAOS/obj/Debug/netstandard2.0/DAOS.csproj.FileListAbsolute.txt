@@ -1,0 +1,36 @@
+C:\Users\arman\source\repos\ICPC\DAOS\bin\Debug\netstandard2.0\DAOS.deps.json
+C:\Users\arman\source\repos\ICPC\DAOS\bin\Debug\netstandard2.0\DAOS.dll
+C:\Users\arman\source\repos\ICPC\DAOS\bin\Debug\netstandard2.0\DAOS.pdb
+C:\Users\arman\source\repos\ICPC\DAOS\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\arman\source\repos\ICPC\DAOS\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\arman\source\repos\ICPC\DAOS\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\arman\source\repos\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.csprojAssemblyReference.cache
+C:\Users\arman\source\repos\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.AssemblyInfoInputs.cache
+C:\Users\arman\source\repos\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.AssemblyInfo.cs
+C:\Users\arman\source\repos\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.csproj.CopyComplete
+C:\Users\arman\source\repos\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.dll
+C:\Users\arman\source\repos\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.pdb
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\DAOS\bin\Debug\netstandard2.0\DAOS.deps.json
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\DAOS\bin\Debug\netstandard2.0\DAOS.dll
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\DAOS\bin\Debug\netstandard2.0\DAOS.pdb
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\DAOS\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\DAOS\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\DAOS\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.csprojAssemblyReference.cache
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.AssemblyInfoInputs.cache
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.AssemblyInfo.cs
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.csproj.CopyComplete
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.dll
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.pdb
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\DAOS\bin\Debug\netstandard2.0\DAOS.deps.json
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\DAOS\bin\Debug\netstandard2.0\DAOS.dll
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\DAOS\bin\Debug\netstandard2.0\DAOS.pdb
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\DAOS\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\DAOS\bin\Debug\netstandard2.0\MySql.Data.dll
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\DAOS\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.csprojAssemblyReference.cache
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.AssemblyInfoInputs.cache
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.AssemblyInfo.cs
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.csproj.CopyComplete
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.dll
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\DAOS\obj\Debug\netstandard2.0\DAOS.pdb

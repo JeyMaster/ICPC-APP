@@ -1,0 +1,96 @@
+C:\Users\arman\source\repos\ICPC\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\arman\source\repos\ICPC\Vistas\bin\Debug\Vistas.exe
+C:\Users\arman\source\repos\ICPC\Vistas\bin\Debug\Vistas.pdb
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.exe
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.pdb
+C:\Users\arman\source\repos\ICPC\Vistas\bin\Debug\DAOS.dll
+C:\Users\arman\source\repos\ICPC\Vistas\bin\Debug\Modelo.dll
+C:\Users\arman\source\repos\ICPC\Vistas\bin\Debug\MySql.Data.dll
+C:\Users\arman\source\repos\ICPC\Vistas\bin\Debug\Google.Protobuf.dll
+C:\Users\arman\source\repos\ICPC\Vistas\bin\Debug\Renci.SshNet.dll
+C:\Users\arman\source\repos\ICPC\Vistas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\arman\source\repos\ICPC\Vistas\bin\Debug\DAOS.pdb
+C:\Users\arman\source\repos\ICPC\Vistas\bin\Debug\Modelo.pdb
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\bin\Debug\Vistas.exe
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\bin\Debug\Vistas.pdb
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\bin\Debug\DAOS.dll
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\bin\Debug\Modelo.dll
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\bin\Debug\MySql.Data.dll
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\bin\Debug\Google.Protobuf.dll
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\bin\Debug\Renci.SshNet.dll
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\bin\Debug\DAOS.pdb
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\bin\Debug\Modelo.pdb
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.FrmCrearEquipo.resources
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.FrmLogin.resources
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.FrmRegistro.resources
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.FrmTableroMiembro.resources
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.exe
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.pdb
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.FrmPerfilMiembro.resources
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.FrmAdminConcursos.resources
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.FrmAdminInstituciones.resources
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.FrmAdminRegiones.resources
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.FrmAdminSedes.resources
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.FrmTableroAdministrador.resources
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.FrmAdminConcursos.resources
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.FrmAdminInstituciones.resources
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.FrmAdminRegiones.resources
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.FrmAdminSedes.resources
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.FrmCrearEquipo.resources
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.FrmLogin.resources
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.FrmPerfilMiembro.resources
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.FrmRegistro.resources
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.FrmTableroAdministrador.resources
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.FrmTableroMiembro.resources
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.FrmEquiposMiembro.resources
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.FrmAgregarEditarConcursos.resources
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.FrmAgregarEditarInstituciones.resources
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.FrmAgregarEditarRegiones.resources
+C:\Users\arman\source\repos\ICPC\Vistas\obj\Debug\Vistas.FrmAgregarEditarSedes.resources
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.FrmEquiposMiembro.resources
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.FrmAgregarEditarConcursos.resources
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.FrmAgregarEditarInstituciones.resources
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.FrmAgregarEditarRegiones.resources
+C:\Users\beton\Desktop\ProyRegICPC\ICPC\Vistas\obj\Debug\Vistas.FrmAgregarEditarSedes.resources
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\bin\Debug\Vistas.exe
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\bin\Debug\Vistas.pdb
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\bin\Debug\DAOS.dll
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\bin\Debug\Modelo.dll
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\bin\Debug\MySql.Data.dll
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\bin\Debug\Google.Protobuf.dll
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\bin\Debug\Renci.SshNet.dll
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\bin\Debug\DAOS.pdb
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\bin\Debug\Modelo.pdb
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.FrmAdminConcursos.resources
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.FrmEquiposMiembro.resources
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.FrmAdminInstituciones.resources
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.FrmAdminRegiones.resources
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.FrmAdminSedes.resources
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.FrmAgregarEditarConcursos.resources
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.FrmAgregarEditarInstituciones.resources
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.FrmAgregarEditarRegiones.resources
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.FrmAgregarEditarSedes.resources
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.FrmCrearEquipo.resources
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.FrmLogin.resources
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.FrmPerfilMiembro.resources
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.FrmRegistro.resources
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.FrmTableroAdministrador.resources
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.FrmTableroMiembro.resources
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.exe
+C:\Users\beton\Desktop\ICPC V 2.0\ICPC\Vistas\obj\Debug\Vistas.pdb
